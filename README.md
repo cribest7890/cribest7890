@@ -22,5 +22,5 @@ if you catch someone impersonating me please dm me about it
 ------------------------
 <a href=https://guns.lol/cribest7890>
   <img src=./qr-guns-lol.png alt="guns.lol qr code">
-  <p>Scan or click</p>
+  <p style="color: inherit; text-decoration: none; cursor: default;">Scan or click</p>
 </a>
