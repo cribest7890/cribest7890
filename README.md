@@ -20,5 +20,6 @@ Here are some ideas to get you started:
 if you catch someone impersonating me please dm me about it
 
 ------------------------
-
-<img src=./qr-guns-lol.png>
+<a href=guns.lol/cribest7890>
+  <img src=./qr-guns-lol.png alt="guns.lol qr code">
+</a>
