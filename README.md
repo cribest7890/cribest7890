@@ -1,4 +1,4 @@
-## Hi there 👋
+## Who am i?
 
 <!--
 **cribest7890/cribest7890** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,4 +22,5 @@ if you catch someone impersonating me please dm me about it
 ------------------------
 <a href=https://guns.lol/cribest7890>
   <img src=./qr-guns-lol.png alt="guns.lol qr code">
+  <p>Scan or click</p>
 </a>
