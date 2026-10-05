@@ -15,11 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-⚠️⚠️⚠️SOMEONES IMPERSONATING ME, IF SOMEONE SAYS THAT ITS ME DOUBLE CHECK THAT ITS https://discord.com/users/1362067629476675807
-
-if you catch someone impersonating me please dm me about it
-
-------------------------
 <div align="center">
   <a href="https://guns.lol/cribest7890">
     <img src="./qr-guns-lol.png" alt="guns.lol qr code">
