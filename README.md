@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 if you catch someone impersonating me please dm me about it
 
 ------------------------
-<a href="https://guns.lol/cribest7890" style="color: inherit; text-decoration: none;">
-  <img src="./qr-guns-lol.png" alt="guns.lol qr code">
+<div align="center">
+  <a href="https://guns.lol">
+    <img src="./qr-guns-lol.png" alt="guns.lol qr code">
+  </a>
   <p>Scan or click</p>
-</a>
+</div>
