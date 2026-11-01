@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 ## Skills
 
 ### Languages & Frameworks
+<a>
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
@@ -72,3 +73,4 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/GNU_Nano-000000?style=for-the-badge&logo=gnu&logoColor=white" />
   <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
 </p>
+</a>
